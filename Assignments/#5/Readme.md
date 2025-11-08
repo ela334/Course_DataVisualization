@@ -1,19 +1,15 @@
 # Assignment 5
 
-You have 30 mins
+You have 45 mins
 
-You are required to upload your report knitted by R Markdown in PDF format, named as `FirstNameLastName.pdf`, to this folder.
-
-For your end-of-term project, the report must include the following:
-
-- **Chosen Topic:** Specify the topic you have selected.
-- **Summary:** Write a summary of at least 300 words explaining your topic and its details.
-- **Dataset Description:** Introduce the dataset you will use, including its source. Provide the institution or organization that created or shared the dataset, along with an access link if available.
+Instructions:
+1. Please download or copy-paste the Rmd file.
+2. Answer the questions.
+3. Knit your report and publish it as a PDF file. 
+4. To submit your assignment in a PDF file named after your name and surname, create a pull request to the same folder.
 
 Any assignment that does not comply with the instructions will not be evaluated.
 
 Please don't use any GenAI tools. 
-
-### For detailed project information, you can check the [Projects](https://github.com/mcavs/Course_DataVisualization/blob/main/Projects/Readme.md).
 
 
